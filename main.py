@@ -53,10 +53,13 @@ for i,j in a.items():
 
 #3. Sets -> {}
 
-c = {1,7,3,5,6,7,3}
+c = [1,7,3,5,6,7,3]
 
-print(c)
+print(list(set(c)))
 
+# 4. Tuples -> ()
 
+# Tuples are same as List, just the fact that you cannot add, update or delete items
+x = [1,2,3]
 
-#4. Tuples -> ()
+print(tuple(x))
