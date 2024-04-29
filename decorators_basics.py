@@ -1,7 +1,3 @@
-def main():
-    print("I am main")
-
-
 # Call my value
 # main()
 
