@@ -9,6 +9,6 @@ from convert_to_upper_case import CTUC as yay
 
 @yay
 def say_hii():
-    return "helllo"
+    return "hahahahahahah"
 
 print(say_hii())
